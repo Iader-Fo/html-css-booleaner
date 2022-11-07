@@ -1,12 +1,19 @@
 *{
     margin: 0;
 }
+
 .pattern{
     background-image: url(../img/pattern.png);
     height: 190px;
     background-color: #4da1ff;
     background-size: 700px;
-   
+    margin: auto;
+    width: 80%;   
+}
+
+main{
+    width: 80%;
+    margin: auto;
 }
 
 #logo{
@@ -57,4 +64,42 @@ th{
 
 .riga{
     background-color: aquamarine;
+}
+
+#size_tab{
+    width: 50%;
+}
+
+#first_tab{
+    text-align: start;
+}
+
+#second_tab{}
+
+
+footer{
+    margin: auto;
+    width: 80%;
+}
+
+#monitor{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    background-size: contain;
+}
+
+#graph{
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    margin-top: 5px;
+}
+
+#white{
+    color: white;
+    font-size: 25px;
+    font-weight: 800;
+    margin-left: 8px;
 }
