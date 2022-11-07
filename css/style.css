@@ -1,0 +1,23 @@
+.pattern{
+    background-image: url(../img/pattern.png);
+    height: 190px;
+    background-color: #4da1ff;
+    background-size: 700px;
+   
+}
+
+#logo{
+    width: auto;
+    height: 80px;
+    margin-top: 80px;
+    margin-left: 10px;    
+}
+
+h1{
+    font-size: 80px;
+    font-weight: 1200;
+}
+
+.tim{
+    background-size: cover;
+}
