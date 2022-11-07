@@ -7,20 +7,21 @@
     height: 190px;
     background-color: #4da1ff;
     background-size: 700px;
-    margin: auto;
-    width: 80%;   
+    margin: 0;
+      
 }
 
-main{
-    width: 80%;
-    margin: auto;
-}
 
 #logo{
     width: auto;
     height: 80px;
     margin-top: 80px;
-    margin-left: 10px;    
+    margin-left: 10%;    
+}
+
+main{
+    width: 80%;
+    margin: auto;
 }
 
 h1{
