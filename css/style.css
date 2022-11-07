@@ -24,13 +24,13 @@ main{
 }
 
 h1{
-    font-size: 80px;
+    font-size: 70px;
     font-weight: 1200;
     margin-bottom: 0px;
 }
 
-.writer{
-    
+#artist{
+    color: #4c9aac;
 }
 
 #sottotitolo{
@@ -57,34 +57,54 @@ h1{
     font-size: 20px;
 }
 
+ul{
+    margin-left: -25px;
+}
+
+table{
+    border-spacing: 0;
+}
 th{
     background-color: #4da1ff;
     color: white;
 }
 
 .riga{
-    background-color: aquamarine;
+    background-color:#b2e6f2;
 }
 
-#size_tab{
+.size_tab{
     width: 50%;
+}
+
+#left{
+    text-align: start;
 }
 
 #first_tab{
     text-align: start;
 }
 
-#second_tab{}
+#second_tab{
+    text-align: center;
+}
 
 
 footer{
     margin: auto;
     width: 80%;
+    font-weight: 900;
+}
+
+#altro{
+    font-size: 20px;
+    color: grey;
 }
 
 #monitor{
     background-image: url(../img/monitor.jpg);
     height: 200px;
+    width: 300px;
     background-repeat: no-repeat;
     margin-top: 10px;
     background-size: contain;
@@ -93,13 +113,20 @@ footer{
 #graph{
     background-image: url(../img/graph.jpg);
     height: 200px;
+    width: 300px;
     background-repeat: no-repeat;
     margin-top: 5px;
+    background-size: contain;
+    margin-bottom: 60px;
 }
 
 #white{
     color: white;
     font-size: 25px;
     font-weight: 800;
-    margin-left: 8px;
+    padding: 15px;
+}
+
+#importante{
+    background-color: yellow;
 }
