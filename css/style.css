@@ -16,8 +16,28 @@
 h1{
     font-size: 80px;
     font-weight: 1200;
+    margin-bottom: 0px;
+}
+
+.writer{
+    
+}
+
+#sottotitolo{
+    font-size: 30px;
+    color: grey;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 1000;
+}
+
+#sottotitolo_2{
+    font-size: 25px;
+    color: grey;
+    font-weight: 800;
+    margin-top: 0px;
 }
 
 .tim{
-    background-size: cover;
+
 }
