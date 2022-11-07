@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+}
+
+.pattern{
+    background-image: url(../img/pattern.png);
+    height: 190px;
+    background-color: #4da1ff;
+    background-size: 700px;
+    margin: auto;
+    width: 80%;   
+}
+
+main{
+    width: 80%;
+    margin: auto;
+}
+
+#logo{
+    width: auto;
+    height: 80px;
+    margin-top: 80px;
+    margin-left: 10px;    
+}
+
+h1{
+    font-size: 70px;
+    font-weight: 1200;
+    margin-bottom: 0px;
+}
+
+#artist{
+    color: #4c9aac;
+}
+
+#sottotitolo{
+    font-size: 30px;
+    color: grey;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 1000;
+}
+
+#sottotitolo_2{
+    font-size: 25px;
+    color: grey;
+    font-weight: 800;
+    margin-top: 0px;
+}
+
+.tim{
+    margin-top: 20px;
+
+}
+
+.name_photo{
+    font-size: 20px;
+}
+
+ul{
+    margin-left: -25px;
+}
+
+table{
+    border-spacing: 0;
+}
+th{
+    background-color: #4da1ff;
+    color: white;
+}
+
+.riga{
+    background-color:#b2e6f2;
+}
+
+.size_tab{
+    width: 50%;
+}
+
+#left{
+    text-align: start;
+}
+
+#first_tab{
+    text-align: start;
+}
+
+#second_tab{
+    text-align: center;
+}
+
+
+footer{
+    margin: auto;
+    width: 80%;
+    font-weight: 900;
+}
+
+#altro{
+    font-size: 20px;
+    color: grey;
+}
+
+#monitor{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 300px;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    background-size: contain;
+}
+
+#graph{
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 300px;
+    background-repeat: no-repeat;
+    margin-top: 5px;
+    background-size: contain;
+    margin-bottom: 60px;
+}
+
+#white{
+    color: white;
+    font-size: 25px;
+    font-weight: 800;
+    padding: 15px;
+}
+
+#importante{
+    background-color: yellow;
+}
