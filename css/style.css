@@ -31,6 +31,7 @@ h1{
 
 #artist{
     color: #4c9aac;
+    text-decoration: none;
 }
 
 #sottotitolo{
@@ -54,11 +55,11 @@ h1{
 }
 
 .name_photo{
-    font-size: 20px;
+    font-size: 12PX;
 }
 
 ul{
-    margin-left: -25px;
+    padding-left: 15px;
 }
 
 table{
@@ -107,7 +108,7 @@ footer{
     width: 300px;
     background-repeat: no-repeat;
     margin-top: 10px;
-    background-size: contain;
+    background-size: cover;
 }
 
 #graph{
@@ -116,8 +117,7 @@ footer{
     width: 300px;
     background-repeat: no-repeat;
     margin-top: 5px;
-    background-size: contain;
-    margin-bottom: 60px;
+    background-size: cover;
 }
 
 #white{
